@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="595b4683-34c6-4d37-83de-71b232718c99" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (1.9.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>习惯的力量（精编图文版）</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>前言</text>
+      </navLabel>
+      <content src="text/part0004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>第一部分 个体的习惯</text>
+      </navLabel>
+      <content src="text/part0005.html"/>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>第一章 习惯回路 习惯是如何运作的？</text>
+        </navLabel>
+        <content src="text/part0006.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>第二章 渴求的大脑 如何创造新习惯</text>
+        </navLabel>
+        <content src="text/part0008.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>第三章 习惯改变的黄金法则 为什么习惯会发生变化</text>
+        </navLabel>
+        <content src="text/part0010.html"/>
+        <navPoint class="chapter" id="num_6" playOrder="6">
+          <navLabel>
+            <text>习惯改变的黄金法则</text>
+          </navLabel>
+          <content src="text/part0011.html#sigil_toc_id_1"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_7" playOrder="7">
+          <navLabel>
+            <text>你无法根除坏习惯，你只能改变它</text>
+          </navLabel>
+          <content src="text/part0011.html#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint class="chapter" id="num_8" playOrder="8">
+          <navLabel>
+            <text>原理：用同样的暗示，提供同样的奖赏，改变中间的惯常行为</text>
+          </navLabel>
+          <content src="text/part0011.html#sigil_toc_id_3"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>第二部分 成功的组织机构习惯</text>
+      </navLabel>
+      <content src="text/part0012.html"/>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>第四章 核心习惯 最重要的习惯</text>
+        </navLabel>
+        <content src="text/part0013.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>第五章 星巴克和成功的习惯 让意志力变成自发意识</text>
+        </navLabel>
+        <content src="text/part0015.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_12" playOrder="12">
+        <navLabel>
+          <text>第六章 危机就是转机 领导者怎样通过事故创造新习惯</text>
+        </navLabel>
+        <content src="text/part0017.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>第七章 连锁销售商能预知消费者的行为 企业如何能预测操纵你的习惯</text>
+        </navLabel>
+        <content src="text/part0019.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>第三部分 社会的习惯</text>
+      </navLabel>
+      <content src="text/part0021.html"/>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>第八章 蒙哥马利公交车抵制事件 社会运动如何发生</text>
+        </navLabel>
+        <content src="text/part0022.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>第九章 自由意志的神经学 我们是否要为我们的习惯负责？</text>
+        </navLabel>
+        <content src="text/part0024.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>附录 读者实践指南</text>
+        </navLabel>
+        <content src="text/part0026.html"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>译后记</text>
+        </navLabel>
+        <content src="text/part0027.html"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>中信Kindle热书榜</text>
+      </navLabel>
+      <content src="text/part0029.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

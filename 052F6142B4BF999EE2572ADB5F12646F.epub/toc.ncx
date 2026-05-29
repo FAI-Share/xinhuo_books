@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta name="dtb:uid" content="2b0094b8-cea0-495e-b456-3ead5ca7b649"/>
+    <meta name="dtb:depth" content="4"/>
+    <meta name="dtb:generator" content="calibre (5.34.0)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>认知觉醒：伴随一生的学习方法论（青少年学习版）</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="0" class="chapter">
+      <navLabel>
+        <text>扉页</text>
+      </navLabel>
+      <content src="text/part0000.html#0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="1" class="chapter">
+      <navLabel>
+        <text>版权信息</text>
+      </navLabel>
+      <content src="text/part0001.html#UGI0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="2" class="chapter">
+      <navLabel>
+        <text>目录</text>
+      </navLabel>
+      <content src="text/part0002.html#1T140-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="3" class="chapter">
+      <navLabel>
+        <text>前言 在终身学习时代，我们需要一个能伴随一生的学习方法论</text>
+      </navLabel>
+      <content src="text/part0004.html#3Q280-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="4" class="chapter">
+      <navLabel>
+        <text>上篇 学习的技法</text>
+      </navLabel>
+      <content src="text/part0005_split_000.html#4OIQ0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+      <navPoint id="num_6" playOrder="1" class="chapter">
+        <navLabel>
+          <text>第一章 大脑——学习的基石</text>
+        </navLabel>
+        <content src="text/part0005_split_000.html#sigil_toc_id_1"/>
+        <navPoint id="num_7" playOrder="2" class="chapter">
+          <navLabel>
+            <text>第一节 三个大脑：学习，从认识自己的大脑开始</text>
+          </navLabel>
+          <content src="text/part0005_split_000.html#sigil_toc_id_2"/>
+        </navPoint>
+        <navPoint id="num_8" playOrder="3" class="chapter">
+          <navLabel>
+            <text>第二节 获取耐心：耐心，是无坚不摧的学习品质</text>
+          </navLabel>
+          <content src="text/part0005_split_000.html#sigil_toc_id_3"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="4" class="chapter">
+          <navLabel>
+            <text>第三节 7个小球：想进步，先修大脑的高速公路</text>
+          </navLabel>
+          <content src="text/part0005_split_000.html#sigil_toc_id_4"/>
+        </navPoint>
+        <navPoint id="num_10" playOrder="5" class="chapter">
+          <navLabel>
+            <text>第四节 一对翅膀：学习慢，是因为你还不会“飞”</text>
+          </navLabel>
+          <content src="text/part0005_split_000.html#sigil_toc_id_5"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_11" playOrder="6" class="chapter">
+        <navLabel>
+          <text>第二章 清晰——学习的窍门</text>
+        </navLabel>
+        <content src="text/part0005_split_001.html"/>
+        <navPoint id="num_12" playOrder="7" class="chapter">
+          <navLabel>
+            <text>第一节 清晰：学习是一场消除模糊的比赛</text>
+          </navLabel>
+          <content src="text/part0005_split_001.html#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="num_13" playOrder="8" class="chapter">
+          <navLabel>
+            <text>第二节 学习清晰：有一是一，消除学习模糊</text>
+          </navLabel>
+          <content src="text/part0005_split_001.html#sigil_toc_id_8"/>
+        </navPoint>
+        <navPoint id="num_14" playOrder="9" class="chapter">
+          <navLabel>
+            <text>第三节 情绪清晰：勇敢面对，消除情绪模糊</text>
+          </navLabel>
+          <content src="text/part0005_split_001.html#sigil_toc_id_9"/>
+        </navPoint>
+        <navPoint id="num_15" playOrder="10" class="chapter">
+          <navLabel>
+            <text>第四节 行动清晰：敢于假设，消除行动模糊</text>
+          </navLabel>
+          <content src="text/part0005_split_001.html#sigil_toc_id_10"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_16" playOrder="11" class="chapter">
+        <navLabel>
+          <text>第三章 专注——学习的核心</text>
+        </navLabel>
+        <content src="text/part0005_split_002.html"/>
+        <navPoint id="num_17" playOrder="12" class="chapter">
+          <navLabel>
+            <text>第一节 极度专注：专注是学习中披荆斩棘的利剑</text>
+          </navLabel>
+          <content src="text/part0005_split_002.html#sigil_toc_id_12"/>
+        </navPoint>
+        <navPoint id="num_18" playOrder="13" class="chapter">
+          <navLabel>
+            <text>第二节 间歇专注：普通人掌握专注的有效策略</text>
+          </navLabel>
+          <content src="text/part0005_split_002.html#sigil_toc_id_13"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_19" playOrder="14" class="chapter">
+        <navLabel>
+          <text>第四章 反馈——学习的方法</text>
+        </navLabel>
+        <content src="text/part0005_split_003.html"/>
+        <navPoint id="num_20" playOrder="15" class="chapter">
+          <navLabel>
+            <text>第一节 进步小秘密：反馈、反馈、反馈</text>
+          </navLabel>
+          <content src="text/part0005_split_003.html#sigil_toc_id_15"/>
+        </navPoint>
+        <navPoint id="num_21" playOrder="16" class="chapter">
+          <navLabel>
+            <text>第二节 学习三剑客：关联、强化、提取</text>
+          </navLabel>
+          <content src="text/part0005_split_003.html#sigil_toc_id_16"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_22" playOrder="17" class="chapter">
+        <navLabel>
+          <text>第五章 匹配——学习的规律</text>
+        </navLabel>
+        <content src="text/part0005_split_004.html"/>
+        <navPoint id="num_23" playOrder="18" class="chapter">
+          <navLabel>
+            <text>第一节 难易匹配：攻无不克的学习之道</text>
+          </navLabel>
+          <content src="text/part0005_split_004.html#sigil_toc_id_18"/>
+        </navPoint>
+        <navPoint id="num_24" playOrder="19" class="chapter">
+          <navLabel>
+            <text>第二节 周期匹配：顺势而为的学习“外挂”</text>
+          </navLabel>
+          <content src="text/part0005_split_004.html#sigil_toc_id_19"/>
+        </navPoint>
+        <navPoint id="num_25" playOrder="20" class="chapter">
+          <navLabel>
+            <text>第三节 节奏匹配：集中火力的突围策略</text>
+          </navLabel>
+          <content src="text/part0005_split_004.html#sigil_toc_id_20"/>
+        </navPoint>
+        <navPoint id="num_26" playOrder="21" class="chapter">
+          <navLabel>
+            <text>第四节 刻意练习：破解难题的万能口诀</text>
+          </navLabel>
+          <content src="text/part0005_split_004.html#sigil_toc_id_21"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_27" playOrder="26" class="chapter">
+      <navLabel>
+        <text>下篇 学习的心法</text>
+      </navLabel>
+      <content src="text/part0006_split_000.html#5N3C0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+      <navPoint id="num_28" playOrder="22" class="chapter">
+        <navLabel>
+          <text>第六章 心理——学习的动力</text>
+        </navLabel>
+        <content src="text/part0006_split_000.html#sigil_toc_id_22"/>
+        <navPoint id="num_29" playOrder="23" class="chapter">
+          <navLabel>
+            <text>第一节 意义：学习的意义是什么</text>
+          </navLabel>
+          <content src="text/part0006_split_000.html#sigil_toc_id_23"/>
+        </navPoint>
+        <navPoint id="num_30" playOrder="24" class="chapter">
+          <navLabel>
+            <text>第二节 层次：你的学习在第几层</text>
+          </navLabel>
+          <content src="text/part0006_split_000.html#sigil_toc_id_24"/>
+        </navPoint>
+        <navPoint id="num_31" playOrder="25" class="chapter">
+          <navLabel>
+            <text>第三节 身份：改变自己的终极力量</text>
+          </navLabel>
+          <content src="text/part0006_split_000.html#sigil_toc_id_25"/>
+        </navPoint>
+        <navPoint id="num_32" playOrder="26" class="chapter">
+          <navLabel>
+            <text>第四节 语言：好好学习从好好说话开始</text>
+          </navLabel>
+          <content src="text/part0006_split_000.html#sigil_toc_id_26"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_33" playOrder="27" class="chapter">
+        <navLabel>
+          <text>第七章 心态——学习的视角</text>
+        </navLabel>
+        <content src="text/part0006_split_001.html"/>
+        <navPoint id="num_34" playOrder="28" class="chapter">
+          <navLabel>
+            <text>第一节 期待：降低期待，无往不胜的学习心态</text>
+          </navLabel>
+          <content src="text/part0006_split_001.html#sigil_toc_id_28"/>
+        </navPoint>
+        <navPoint id="num_35" playOrder="29" class="chapter">
+          <navLabel>
+            <text>第二节 视角：转变视角，走出困境的神奇魔法</text>
+          </navLabel>
+          <content src="text/part0006_split_001.html#sigil_toc_id_29"/>
+        </navPoint>
+        <navPoint id="num_36" playOrder="30" class="chapter">
+          <navLabel>
+            <text>第三节 兴趣：那些只凭兴趣学习的人都失败了</text>
+          </navLabel>
+          <content src="text/part0006_split_001.html#sigil_toc_id_30"/>
+        </navPoint>
+        <navPoint id="num_37" playOrder="31" class="chapter">
+          <navLabel>
+            <text>第四节 打卡：莫迷恋打卡，打卡打不出学霸</text>
+          </navLabel>
+          <content src="text/part0006_split_001.html#sigil_toc_id_31"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_38" playOrder="32" class="chapter">
+        <navLabel>
+          <text>第八章 环境——学习的助推</text>
+        </navLabel>
+        <content src="text/part0006_split_002.html"/>
+        <navPoint id="num_39" playOrder="33" class="chapter">
+          <navLabel>
+            <text>第一节 现实环境：学会“偷懒”比努力更重要</text>
+          </navLabel>
+          <content src="text/part0006_split_002.html#sigil_toc_id_33"/>
+        </navPoint>
+        <navPoint id="num_40" playOrder="34" class="chapter">
+          <navLabel>
+            <text>第二节 精神环境：用阅读打造顶级的朋友圈</text>
+          </navLabel>
+          <content src="text/part0006_split_002.html#sigil_toc_id_34"/>
+        </navPoint>
+        <navPoint id="num_41" playOrder="35" class="chapter">
+          <navLabel>
+            <text>第三节 生理环境：想要学习好，运动少不了</text>
+          </navLabel>
+          <content src="text/part0006_split_002.html#sigil_toc_id_35"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="num_42" playOrder="41" class="chapter">
+      <navLabel>
+        <text>后记 阅读的结束只是改变的开始</text>
+      </navLabel>
+      <content src="text/part0007.html#6LJU0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+    <navPoint id="num_43" playOrder="42" class="chapter">
+      <navLabel>
+        <text>参考文献</text>
+      </navLabel>
+      <content src="text/part0008.html#7K4G0-54e0c72f058740cc8b2c0c3ad3a43afd"/>
+    </navPoint>
+  </navMap>
+</ncx>
